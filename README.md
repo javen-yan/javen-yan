@@ -4,9 +4,6 @@
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here
 
-[![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:yanzongzhen127@163.com)](mailto:yanzongzhen127@163.com)
-[![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yanzongzhen127@gmail.com)
-
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javen-yan&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=javen-yan&count_private=true&show_icons=true" height=145/></span>](https://github.com/javen-yan)
 
 <!--
