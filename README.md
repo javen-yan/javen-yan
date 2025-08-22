@@ -2,34 +2,10 @@
 
 ### _Hi there 👋, I'm JavenYan._
 
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
+I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here
 
 [![163 邮箱](https://img.shields.io/badge/-163%20Mail-FC1F1F?style=plastic&link=mailto:yanzongzhen127@163.com)](mailto:yanzongzhen127@163.com)
 [![gmail 邮箱](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yanzongzhen127@gmail.com)
-
-- 🚀 I use daily:
-  [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://github.com/javen-yan)
-  [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://github.com/javen-yan)
-  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://github.com/javen-yan)
-  [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://github.com/javen-yan)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://github.com/javen-yan)
-  [![Golang](https://img.shields.io/badge/-Golang-02569B?logo=go&logoColor=00ACC1)](https://github.com/javen-yan)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)](https://github.com/javen-yan)
-  [![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)](https://github.com/javen-yan)
-  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://github.com/javen-yan)
-  [![React](https://img.shields.io/badge/-React-61DAFB?logo=python&logoColor=white)](https://github.com/javen-yan)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://github.com/javen-yan)
-
-- 💻 I work using:
-  [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://github.com/javen-yan)
-  [![GoLand](https://img.shields.io/badge/-GoLand-000?logo=goland&logoColor=00ACC1)](https://github.com/javen-yan)
-  [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://github.com/javen-yan)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://github.com/javen-yan)
-  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://github.com/javen-yan)
-  [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://github.com/javen-yan)
-  [![Cursor](https://img.shields.io/badge/-Cursor-000?logo=cursor&logoColor=00ACC1)](https://github.com/javen-yan)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=javen-yan&theme=flag-india)](https://github.com/javen-yan/github-readme-stats) -->
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javen-yan&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=javen-yan&count_private=true&show_icons=true" height=145/></span>](https://github.com/javen-yan)
 
